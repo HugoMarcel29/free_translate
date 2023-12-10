@@ -13,5 +13,5 @@ def translate_paragraph(paragraph, url):
 
 # 调用示例
 paragraph = 'hello world'
-url = 'http://79.133.126.241:9041/translate'    #填入google_translate_server.py的服务器地址
+url = 'http://127.0.0.1:9041/translate'    #填入google_translate_server.py的服务器地址
 print(translate_paragraph(paragraph, url))
