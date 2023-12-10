@@ -14,7 +14,7 @@ def translate_paragraph(paragraph, url):
     return translated_text
 
 def translate_long_text(input_file):
-    url = 'http://79.133.126.241:9041/translate'
+    url = 'http://79.133.126.241:9041/translate'    #填入google_translate_server.py的服务器地址
     max_length = 1500  # 段落最大长度
     max_attempts = 3   # 最大重试次数
 
