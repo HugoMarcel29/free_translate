@@ -6,7 +6,7 @@ google_translate_server.py
 
 
 ```
-sudo -i  sk   
+sudo -i
 nohup python  /root/google_translate_server.py  2>&1 &
 disown -h
 ```
