@@ -3,7 +3,8 @@
 
 <h1>一、在VPS中部署服务器端，后台执行。</h1>
 <h2>
-google_translate_server.py  
+google_translate_server.py
+
 
 ```
 sudo -i  sk   
@@ -13,8 +14,11 @@ disown -h
 </h2>
 <h1>二、本地执行客户端发送翻译请求(需修改服务器端IP地址）</h1>
 <h2>
-google_tralslate_client_example.py    本地执行客户端发送翻译请求
+google_tralslate_client_example.py
+本地执行客户端发送翻译请求
 
-google_tralslate_client_file.py        本地执行客户端，发送翻译本地某个TXT文件请求，翻译后保存在同一目录
+
+google_tralslate_client_file.py
+本地执行客户端，发送翻译本地某个TXT文件请求，翻译后保存在同一目录
 
 </h2>
