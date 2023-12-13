@@ -1,5 +1,5 @@
 # free_translate
-<h1>最简单、永远免费、不限流量的翻译解决方案</h1>
+<h1>最简单、永远免费、不限流量的翻译API解决方案</h1>
 <h1>一、在VPS中部署服务器端，后台执行</h1>
 
 google_translate_server.py
